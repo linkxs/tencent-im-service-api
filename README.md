@@ -10,6 +10,7 @@
 | fastjson               | 1.2.58        |
 | Spring Boot            | 2.2.5.RELEASE |
 
+*请求工具 RestTemplate*
 
 ### 模块说明
 
